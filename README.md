@@ -2,19 +2,6 @@
 
 Welcome to the Closed Curve Detection project, a cutting-edge initiative designed to revolutionize the way we analyze and interpret two-dimensional geometric data. This project employs advanced computational geometry and graph theory techniques to meticulously identify and visualize closed curves within datasets. Our tool is crafted to assist researchers, engineers, and data enthusiasts in uncovering hidden patterns and gaining insights into complex geometric structures. By enhancing data interpretation through dynamic visualization, this project stands as a powerful asset for anyone dealing with intricate spatial data.
 
-# Getting Started
-
-To get started with this project, clone the repository and ensure you have Python and necessary libraries such as NumPy and Matplotlib installed. The code is structured to be beginner-friendly yet comprehensive enough for advanced users.
-
-
-git clone https://github.com/yourusername/curve-visualization.git
-
-cd curve-visualization
-
-pip install -r requirements.txt
-
-python main.py
-
 # Key Features and Applications
 
 Dynamic Visualization: Our project generates high-quality plots that showcase closed curves, offering an intuitive understanding of complex datasets. This visualization capability is essential for researchers and analysts who need to interpret data quickly and effectively.
