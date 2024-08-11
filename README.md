@@ -8,8 +8,11 @@ To get started with this project, clone the repository and ensure you have Pytho
 
 
 git clone https://github.com/yourusername/curve-visualization.git
+
 cd curve-visualization
+
 pip install -r requirements.txt
+
 python main.py
 
 # Key Features and Applications
